@@ -133,7 +133,7 @@ jQuery(document).ready(function($) {
 // When the window has finished loading create our google map below
 
 function initialize() {
-  var myLatlng = new google.maps.LatLng(40.8760846, -73.9039239);
+  var myLatlng = new google.maps.LatLng(31.463955, -94.869002);
   var map_options = {
     zoom: 16,
     mapTypeId: google.maps.MapTypeId.ROADMAP,
